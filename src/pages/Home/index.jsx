@@ -10,8 +10,8 @@ function Home() {
       <section className={styles.container}>
         <div className={styles.apresentacao}>
           <p>
-            <span>Trabalho digno </span> <br />
-            base para um futuro justo e próspero
+            <span>Vida na água </span> <br />
+            Conservar e usar de forma sustentável os oceanos.
           </p>
           <Link to="/ods">
             <button className={styles.btn}>
