@@ -12,11 +12,14 @@
   }
   
   .container span {
-    color: white;
+    color: black;
     font-weight: bold;
     font-size: 60px;
   }
-  
+.sub {
+    font-size: 35px;
+}
+
   .container img {
     height: 400px;
   }
