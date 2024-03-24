@@ -11,7 +11,7 @@ function Home() {
         <div className={styles.apresentacao}>
           <p>
             <span>Vida na água </span> <br />
-            Conservar e usar de forma sustentável os oceanos.
+            <p class="sub">Conservar e usar de forma sustentável os oceanos.</p>
           </p>
           <Link to="/ods">
             <button className={styles.btn}>
