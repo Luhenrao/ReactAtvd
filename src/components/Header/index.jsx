@@ -5,11 +5,12 @@ function Header() {
   return (
     <header>
       <div className={styles.header}>
-        <span>ODS 14</span>
+        <span>Cidade Segura</span>
         <nav>
           <Link to="/">Home</Link>
-          <Link to="/ods">ODS</Link>
-          <Link to="/sobre">Sobre</Link>
+          <Link to="/desafio">Desafio</Link>
+          <Link to="/solucao">Solução</Link>
+          <Link to="/sobrenos">Sobre Nós</Link>
         </nav>
       </div>
     </header>
